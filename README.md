@@ -6,9 +6,11 @@
 
 ## 友情链接
 
-1. [前端基础进阶系列](https://www.jianshu.com/p/cd3fee40ef59)
-2. [冴羽的博客](https://github.com/mqyqingfeng/Blog)
-3. [如何用Github Issues写技术博客](https://www.jianshu.com/p/7c2cce028d29)
+1. [JavaScript 教程](https://wangdoc.com/javascript/)
+2. [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+3. [前端基础进阶系列](https://www.jianshu.com/p/cd3fee40ef59)
+4. [冴羽的博客](https://github.com/mqyqingfeng/Blog)
+5. [如何用Github Issues写技术博客](https://www.jianshu.com/p/7c2cce028d29)
 
 ## 勘误及提问
 
