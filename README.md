@@ -2,7 +2,7 @@
 
 ## JavaScript - 基础进阶系列目录
 
-1. [内存空间详细图解](https://github.com/mqyqingfeng/Blog/issues/2)
+1. [内存空间详细图解](https://github.com/YueQuanXiaoChe/YueQuanXiaoChe.github.io/issues/1)
 
 ## 友情链接
 
