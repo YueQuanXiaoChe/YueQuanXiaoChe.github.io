@@ -14,6 +14,7 @@
 5. [原型对象的那些事（二）](https://juejin.im/post/5cce7e1051882541914add5c)
 6. [冴羽的博客](https://github.com/mqyqingfeng/Blog)
 7. [如何用Github Issues写技术博客](https://www.jianshu.com/p/7c2cce028d29)
+8. [从多线程到Event Loop全面梳理](https://juejin.im/post/5d5b4c2df265da03dd3d73e5?utm_source=gold_browser_extension#heading-13&tdsourcetag=s_pcqq_aiomsg)
 
 ## 勘误及提问
 
