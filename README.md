@@ -4,7 +4,8 @@
 
 1. [内存空间详细图解](https://github.com/YueQuanXiaoChe/YueQuanXiaoChe.github.io/issues/1)
 2. [执行上下文详细图解](https://github.com/YueQuanXiaoChe/YueQuanXiaoChe.github.io/issues/2)
-3. [变量对象详解](https://github.com/YueQuanXiaoChe/YueQuanXiaoChe.github.io/issues/3)
+3. [变量对象详细图解](https://github.com/YueQuanXiaoChe/YueQuanXiaoChe.github.io/issues/3)
+4. [作用域链与闭包详细图解](https://github.com/YueQuanXiaoChe/YueQuanXiaoChe.github.io/issues/4)
 
 ## 收藏链接
 
