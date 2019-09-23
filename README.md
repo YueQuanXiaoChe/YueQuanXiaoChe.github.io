@@ -2,7 +2,7 @@
 
 ## JavaScript - 工具代码汇总
 
-## JavaScript - 基础进阶系列目录
+## JavaScript - 基础进阶
 
 1. [内存空间详细图解](https://github.com/YueQuanXiaoChe/YueQuanXiaoChe.github.io/issues/1)
 2. [执行上下文详细图解](https://github.com/YueQuanXiaoChe/YueQuanXiaoChe.github.io/issues/2)
