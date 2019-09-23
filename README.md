@@ -2,6 +2,8 @@
 
 ## JavaScript - 工具代码汇总
 
+1. [计算两个颜色之间的渐变色值](https://github.com/YueQuanXiaoChe/YueQuanXiaoChe.github.io/issues/5)
+
 ## JavaScript - 基础进阶
 
 1. [内存空间详细图解](https://github.com/YueQuanXiaoChe/YueQuanXiaoChe.github.io/issues/1)
