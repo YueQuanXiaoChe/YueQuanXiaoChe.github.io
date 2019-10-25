@@ -22,6 +22,7 @@
 7. [如何用Github Issues写技术博客](https://www.jianshu.com/p/7c2cce028d29)
 8. [从多线程到Event Loop全面梳理](https://juejin.im/post/5d5b4c2df265da03dd3d73e5?utm_source=gold_browser_extension#heading-13&tdsourcetag=s_pcqq_aiomsg)
 9. [通俗易懂了解Vue双向绑定原理及实现](https://www.cnblogs.com/wangjiachen666/p/9883916.html)
+10. [1.5万字概括ES6全部特性](https://juejin.im/post/5d9bf530518825427b27639d?utm_source=gold_browser_extension#heading-11)
 
 ## 勘误及提问
 
